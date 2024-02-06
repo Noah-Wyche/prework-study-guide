@@ -12,7 +12,7 @@ N/A
 
 Using this study guide you are able to review any section of what we have covered. If you would like a sugestion on what to study first, open the chrome dev tool by pressing 'Command+options+I' (MacOS) or 'Control+Shift+I' (Windows) A console panel should open itself in the browser. There you will see the kist of topics studied in prework as well as a random suggestion of what to study first
 
-![alt text](assets/images/webpage.png)
+![alt text](prework-study-guide/assets/images/webpage.png)
 
 ## Credits
 
